@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.exe.config
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.exe
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\OCR.pdb
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\Windows.winmd
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\bin\Debug\System.Runtime.WindowsRuntime.xml
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.exe
+c:\users\john\documents\visual studio 2015\Projects\OCR\OCR\obj\Debug\OCR.pdb

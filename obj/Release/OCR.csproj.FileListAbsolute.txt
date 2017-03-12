@@ -1,0 +1,8 @@
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\OCR.exe.config
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\OCR.exe
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\OCR.pdb
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\Windows.winmd
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\obj\Release\OCR.exe
+C:\Users\John\documents\visual studio 2015\Projects\OCR\OCR\obj\Release\OCR.pdb
