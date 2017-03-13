@@ -15,8 +15,8 @@ You will need to browse to the above locations to add the reference and for the 
 
 And to manually edit the Visual Studio project file (OCR.csproj in this case) to add:
   
-  #PropertyGroup#
-    #TargetPlatformVersion#8.0#/TargetPlatformVersion#
-  #PropertyGroup#
+  [PropertyGroup]
+    [TargetPlatformVersion]8.0[/TargetPlatformVersion]
+  [PropertyGroup]
   
 That should do it!
