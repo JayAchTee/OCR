@@ -14,7 +14,7 @@ The key to success in doing this is to include the proper references at:
 You will need to browse to the above locations to add the reference and for the latter you will need to select All files (*.*) in the file type dropdown.
 
 And to manually edit the Visual Studio project file (OCR.csproj in this case) to add:
-  <PropertyGroup>
-    <TargetPlatformVersion>8.0</TargetPlatformVersion>
-  </PropertyGroup>
+  &lt;PropertyGroup&gt;
+    &lt;TargetPlatformVersion&gt;8.0&lt;/TargetPlatformVersion&gt;
+  &lt;/PropertyGroup&gt;
   
